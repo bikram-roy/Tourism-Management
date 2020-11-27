@@ -7,6 +7,7 @@ Description: A travel management system helps travel managers book, track, and a
 Type of Application: Web application
 
 Main features: 
+
 	- User can register, sign in, sign out, guest user can view with certain limitations;
 	- Customize travel policies by selecting requirements as per customers;
 	- Request for additional packages of certain location if unavailable;
@@ -52,6 +53,7 @@ https://core.ac.uk/download/pdf/235049881.pdf
 https://idoc.pub/documents/tour-and-travel-final-project-reportdocx-ylyx3zpq8enm
 
 Developers: 
+
 	-Bikram Roy (1722287042) 	[ CSE327 Section 6 ] {Product Owner}
 	-Md. Farabi Alam (1721892642)   [ CSE327 Section 6 ] {Scrum Master}
 
